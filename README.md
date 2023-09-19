@@ -1,1 +1,1 @@
-# management file repository
+# W3C Chapter Management file repository
